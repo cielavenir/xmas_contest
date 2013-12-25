@@ -1,0 +1,29 @@
+outputabsolutedifferencebetweenfirstintegerandlastinteger
+8 6 2 3 4 -> 4
+
+whatsfirstelementplusnthelement
+3 2 9 -> 12
+
+findsumoffirsttwonumbersinsequence
+7 3 8 -> 10
+
+whatslastintegermultipliedbyfirstintegerinsequence
+9 6 1 5 4 8 -> 72
+
+computeproductoffirsttwoelements
+4 2 1 9 8 10 6 7 3 5 -> 8
+
+printsumofallnumbersinsequences
+4 7 2 10 3 1 8 9 6 -> 50
+
+calculatesumoflasttwointegersinsequence
+3 4 8 10 -> 18
+
+whatisfirstnumbersubtractedbysecondnumber
+8 9 6 10 3 -> -1
+
+determineproductoflasttwonumbers
+7 10 3 2 5 -> 10
+
+findfirstintegertimeslastintegerinsequence
+3 9 6 10 5 -> 15
